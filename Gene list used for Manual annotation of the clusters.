@@ -1,0 +1,14 @@
+Gene list used for Manual annotation of the clusters.
+Cluster	Cell Type	Marker Genes
+Cluster 0	Naïve T	CD45RA, CCR7, CD3E, CD62L, IL7R
+Cluster 1	Naïve B	CD19, CD21, CD24, CD40
+Cluster 2	Classical Monocyte	CD14, CD16, CD64, A100A4, LYZ
+Cluster 3	Neutrophil	CD15, CD16, CD32, CD33
+Cluster 4	NK	GNLY, NKG7
+Cluster 5	Memory B	CD19, MS4A1, CD21, CD27
+Cluster 6	Macrophage	ADGRE1, CD68, CD163, CCR5, TLR2, TLR4
+Cluster 7	Memory T	IL7R, S100A4, CD45RO, IL2RA, CD62L, CD8A, CD4, CD3E
+Cluster 8	Treg	CD3E, CD4, CD25, CD127, CTLA4
+Cluster 9	DC	FCER1A, CST3
+Cluster 10	Platelet	PPBP
+Cluster 11	Plasma Cell	CD27, CD38, CXCR4
